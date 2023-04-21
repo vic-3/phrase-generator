@@ -1,7 +1,7 @@
 const ethers = require('ethers');
 const fs = require('fs')
 
-//const seedPhrase = 'breeze push hockey divorce october wonder push embody property design goddess rough';
+//const seedPhrase = 'breeze push hockey june october wonder push embody property design goddess rough';
 const walletAddress = '0x2F88297bC896bAD60876B2Ff9Acdb44567E700F9';
 
 
